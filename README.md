@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/42c87d8f-8acc-4b68-bfd7-08365383dd5e)MoxoPixel at Home.
+MoxoPixel at Home.
 
 This mod adds various Magpul GEN M3 P-MAGs with coloured baseplates for easier identification when dropped or in the inventory; think mag tape, but a bit more permenant.
 
